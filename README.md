@@ -26,7 +26,7 @@ Bienvenue dans le jeu Sokoban réalisé en Java ! Ce jeu classique de puzzle vou
 
 ## Auteur
 
-Wajih Tebni ((https://github.com/Wajih216)
+Wajih Tebni (https://github.com/Wajih216)
 
 N'hésitez pas à contribuer, signaler des problèmes ou faire des suggestions d'amélioration !
 
