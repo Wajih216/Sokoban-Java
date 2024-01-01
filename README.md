@@ -22,7 +22,7 @@ Bienvenue dans le jeu Sokoban réalisé en Java ! Ce jeu classique de puzzle vou
 ## Structure du projet
 
 - `Sokoban.java` : Le fichier source principal du jeu.
-- `Niveau?.txt` : =Les fichiers de niveaux du Sokoban.
+- `Niveau?.txt` : Les fichiers de niveaux du Sokoban.
 
 ## Auteur
 
